@@ -44,3 +44,7 @@ Tela que permite ao usuário fazer cadastro, acompanhamento e gestão de seus in
 ###  **Tela de receitas**
 
 ###  **Tela de despesas**
+
+###  **Landing Pege**
+Tela fala sobre o que vai encontra no site, tela que leva ao login.
+![650c81b5-fdc3-408b-9f68-600a1e20a2ae](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/5310f8b8-c90b-40ae-873b-a05a794ec32a)
