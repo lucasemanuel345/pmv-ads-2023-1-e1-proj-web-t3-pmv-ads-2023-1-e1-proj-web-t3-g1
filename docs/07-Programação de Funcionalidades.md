@@ -12,15 +12,17 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 
 ### Landing Page (RF-17)
-Descrição + Foto
+Tela com um resumo do site e leva ate o login
+![650c81b5-fdc3-408b-9f68-600a1e20a2ae](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/a9dcc597-625e-4ec4-afce-34fd68387614)
+
 
 Requisitos atendidos:
 - RF-17: Permitir que o usuário conheça a plataforma.
 
 **Artefatos da funcionalidade:**
-- (nome do arquivo .html)
-- (nome do arquivo .css)
-- (nome do arquivo .js - se houver)
+- (index3.html)
+- (style.css)
+
 
 ### Tela de Cadastro (RF–09)
 
