@@ -180,3 +180,24 @@ Redirecionamento: <br>
 
 - A **Tela Inicial** obteve resultados promissores nos testes, mostrando um alto nível de aproveitamento.Sendo capaz de se adaptar com sucesso a diferentes dispositivos e tamanhos de tela, mantendo todas as funcionalidades e uma navegação fácil. No entanto, foram identificados alguns problemas de integração de novas informações, considerando que se trata de uma aplicação inicial desenvolvida apenas com tecnologias de Front-End.
 
+## **Landing page**
+
+***Casos de Testes T-01, T-02, T-03 ***
+
+### **T-01: teste pelo pc**
+![tela pc 1](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/67baa416-eed2-46f8-bc22-e754bc794fc0)
+
+![tela pc 2](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/0a526400-83f6-4b71-9dca-89c40adee2fa)
+
+### **T-02: Teste celular**
+![tela celular 1](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/d6c07904-4692-428f-83c6-b8faedf6ccac)
+
+![tela celular 2](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/604ef4a7-d017-4883-a129-5b297e193eb7)
+
+![tela celular 3](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/4a802eb0-e994-4aae-8706-002dd8eb83b5)
+
+### **T-03: Teste de link**
+![teste lick 1](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/e7e1839a-e2f6-46b2-9457-fd4021699e30)
+![wha](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/336d0502-fbda-4701-8cc3-0b47096ee481)
+![teste de botão 1](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/3b48f0b7-5d3c-4455-9aa5-88597a80dee2)
+- A **Londing page** No pc teve um bom desenvolvimento de tela e funcionalidade de link, no entanto o lick de instagram demostrou erro, no celular não teve um bom desenvolvimento, um dos texto não passou para baixo, no geral mostrou um bom nivel de aproveitamento.
