@@ -13,7 +13,9 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 ### Landing Page (RF-17)
 Tela com um resumo do site e leva ao login.
-![650c81b5-fdc3-408b-9f68-600a1e20a2ae](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/a9dcc597-625e-4ec4-afce-34fd68387614)
+![tela pc 1](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/7970dd32-dc74-4642-bdc2-be2b9cb2c693)
+![tela pc 2](https://github.com/lucasemanuel345/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/82137a18-50d7-4f22-9828-cb9854cde52e)
+
 
 
 Requisitos atendidos:
